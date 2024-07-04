@@ -1,9 +1,10 @@
 # Accenture_Data_Analytics_and_Visualization
-Project Understanding
-Data Cleaning & Modeling
-Data Visualization & Storytelling
-Present to the Client
-Details:
+## Details:
+* Project Understanding
+* Data Cleaning & Modeling
+* Data Visualization & Storytelling
+* Present to the Client
+
 Three datasets such as content, reaction, and reaction types are provided.
 By taking the dataset, remove the columns and rows which are not relevant to the analysis.
 By reading and understanding the data, the primary and secondary columns should be taken, analyzed, and visualized
